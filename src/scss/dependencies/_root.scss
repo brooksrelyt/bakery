@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Roboto+Condensed&family=Source+Sans+Pro:wght@400;600;700&family=Dancing+Script&display=swap');
+
+:root {
+  --roboto: 'Roboto Condensed', 'Roboto', 'Source Sans Pro', Helvetica, Arial,
+    sans-serif;
+  --sansSerif: 'Source Sans Pro', Helvetica, Arial, Verdana, sans-serif;
+  --serif: Georgia, serif;
+  --script: 'Dancing Script', cursive;
+
+  --white: #ffffff;
+  --offWhite: #fafafa;
+
+  --borderColor: #e1e1e1;
+
+  --black: #000;
+
+  --grayDark: #454545;
+  --gray: #7f7f7f;
+  --grayLight: #f1f1f1;
+  --grayLightest: #fafafa;
+
+  --blue: #2985f4;
+  --blueDark: #2270cf;
+
+  --brown: #a47d5e;
+
+  font-family: var(--sansSerif);
+  font-size: 16px;
+  line-height: 1.4;
+}
